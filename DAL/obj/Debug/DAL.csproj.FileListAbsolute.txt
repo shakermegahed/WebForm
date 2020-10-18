@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\bin\Debug\DAL.dll.config
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\bin\Debug\itextsharp.dll
+C:\Users\HP\Desktop\interviewtest\TestAssig\DAL\obj\Debug\DAL.csproj.CopyComplete

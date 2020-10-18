@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssig", "TestAssig\TestAssig.csproj", "{8027C1CF-AD6C-42B7-B6AC-993DC9D21A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7F48BC83-D86D-4532-8FBA-BFC18C8ADB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8027C1CF-AD6C-42B7-B6AC-993DC9D21A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8027C1CF-AD6C-42B7-B6AC-993DC9D21A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8027C1CF-AD6C-42B7-B6AC-993DC9D21A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8027C1CF-AD6C-42B7-B6AC-993DC9D21A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F48BC83-D86D-4532-8FBA-BFC18C8ADB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F48BC83-D86D-4532-8FBA-BFC18C8ADB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F48BC83-D86D-4532-8FBA-BFC18C8ADB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F48BC83-D86D-4532-8FBA-BFC18C8ADB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD95B3E-666B-4FB7-B866-668AAFE8A7EB}
+	EndGlobalSection
+EndGlobal
